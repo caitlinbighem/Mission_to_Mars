@@ -5,10 +5,10 @@ The purpose of this assignment is to scrape the data from several websites to cr
 
 ## Data Sources
 
-* **https://redplanetscience.com
-* **https://spaceimages-mars.com
-* **https://galaxyfacts-mars.com
-* **https://marshemisphere.com
+* https://redplanetscience.com
+* https://spaceimages-mars.com
+* https://galaxyfacts-mars.com
+* https://marshemisphere.com
 
 * **Tools:** Pandas, Splinter, BeautifulSoup, Jupyter Notebook
 * **Applications:** MongoDB, Flask
